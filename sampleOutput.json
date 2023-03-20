@@ -1,0 +1,124 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "'Strange lights' seen in Vacaville, possible meteor shower - KTVU FOX 2 San Francisco",
+            "description": "'Strange lights' seen in Vacaville, possible meteor showerSubscribe to KTVU's YouTube channel:https://www.youtube.com/channel/UCVhtkN7-c8mA8GXEoxS4YQw?sub_co...",
+            "url": "https://www.youtube.com/watch?v=Jo3kKZUuoLg",
+            "urlToImage": "https://i.ytimg.com/vi/Jo3kKZUuoLg/hqdefault.jpg",
+            "publishedAt": "2023-03-18T05:30:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Penny Hardaway Throws Water Bottle After Game-Winner - Bleacher Report",
+            "description": "Penny Hardaway couldn't believe how Memphis got knocked out of #marchmadness Subscribe: https://www.youtube.com/user/BleacherReport?sub_confirmation=1Follow ...",
+            "url": "https://www.youtube.com/watch?v=LMEAzZXOahQ",
+            "urlToImage": "https://i.ytimg.com/vi/LMEAzZXOahQ/maxresdefault.jpg",
+            "publishedAt": "2023-03-18T04:20:40Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Bianca Nobilo",
+            "title": "Explainer: Why NATO allies are unlikely to send more advanced jets to Ukraine - CNN",
+            "description": "In one of the most significant escalations of military support to Ukraine from a NATO member since the Russian invasion, Polish President Andrzej Duda on Thursday became the first leader from the security alliance to pledge fighter jets to Kyiv.",
+            "url": "https://www.cnn.com/2023/03/18/europe/poland-migs-explainer-intl-cmd/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230317130420-poland-mig-29-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-18T04:03:00Z",
+            "content": "In one of the most significant escalations of military support to Ukraine from a NATO member since the Russian invasion, Polish President Andrzej Duda on Thursday became the first leader from the sec… [+5151 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Wyoming governor signs law outlawing use of abortion pills - Reuters.com",
+            "description": "Wyoming Governor Mark Gordon on Friday signed into law a bill outlawing the use or prescription of medication abortion pills that was passed by the state's Republican-controlled legislature earlier this month.",
+            "url": "https://www.reuters.com/world/us/wyoming-governor-signs-law-outlawing-use-abortion-pills-2023-03-18/",
+            "urlToImage": "https://www.reuters.com/resizer/iCR9xkInrLmHY4sH0fwuUoYL36g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HGBY26Y5OBJSZMIACGBLYWWWE4.jpg",
+            "publishedAt": "2023-03-18T03:45:00Z",
+            "content": "March 17 (Reuters) - Wyoming Governor Mark Gordon on Friday signed into law a bill outlawing the use or prescription of medication abortion pills that was passed by the state's Republican-controlled … [+2211 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Emily Bary, , Bill Peters",
+            "title": "First Republic Bank's debt cut to junk by Moody's - MarketWatch",
+            "description": "First Republic faces ‘significant challenges,’ Moody’s says; First Republic stock ended more than 30% lower on Friday",
+            "url": "https://www.marketwatch.com/story/first-republic-bank-gets-downgrade-to-junk-from-moodys-6d95c54f",
+            "urlToImage": "https://images.mktw.net/im-744719/social",
+            "publishedAt": "2023-03-18T03:26:00Z",
+            "content": "Moodys Investors Service downgraded its credit rating on First Republic Bank to junk late Friday, citing a deterioration in the banks financial profile.The downgrade reflects the deterioration in the… [+1833 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dark Horizons"
+            },
+            "author": "Garth Franklin",
+            "title": "\"Resident Evil 4\" Remake Scores Raves - Dark Horizons",
+            "description": "Just as Capcom’s remake of “Resident Evil 2” had the highest aggregate score of any 2019 game release on Metacritic, it looks as though the upcoming “Resident Evil 4” could well do the same this year. Praise for this new take on the game franchise’s most accl…",
+            "url": "https://www.darkhorizons.com/resident-evil-4-remake-scores-raves/",
+            "urlToImage": "https://cdndh.darkhorizons.com/wp-content/uploads/2023/03/resident-evil-4-remake-scores-raves.jpg",
+            "publishedAt": "2023-03-18T02:07:46Z",
+            "content": "Just as Capcom’s remake of “Resident Evil 2” had the highest aggregate score of any 2019 game release on Metacritic, it looks as though the upcoming “Resident Evil 4” could well do the same this year… [+1675 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WCTI12.com"
+            },
+            "author": "JILLIAN SMITH | The National Desk",
+            "title": "Yellen says banking system 'is sound' amid concerns that collapses could be contagious - WKRC TV Cincinnati",
+            "description": "It’s been a week of fallout from the collapse of two American banks, a Swiss investment bank teetering on failure and a brutal week for bank stocks.On Capitol H",
+            "url": "https://wcti12.com/news/nation-world/yellen-says-banking-system-is-sound-amid-concerns-that-collapses-could-be-contagious-banking-failures-washington-works-to-protest-americans-money-silicon-valley-bank-signature-bank-stunning-collapse-federal-reserve-savings-crippling-financial-crisis-2008",
+            "urlToImage": "https://wcti12.com/resources/media/93c02f3c-3f6d-4cb4-8fbf-a2d82aec7b4a-large16x9_AP23048063336948.jpg?1677080187650",
+            "publishedAt": "2023-03-18T01:46:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Bruce Buffer Visits London's Famous Savile Row Ahead of UFC 286 Edwards vs Usman - UFC - Ultimate Fighting Championship",
+            "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+            "url": "https://www.youtube.com/watch?v=yjwVWyvl2hA",
+            "urlToImage": null,
+            "publishedAt": "2023-03-18T01:28:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GMA"
+            },
+            "author": "Carson Blackwelder, Stephen Iervolino",
+            "title": "Lance Reddick, star of 'The Wire' and 'John Wick,' dead at 60 - ABC News",
+            "description": "",
+            "url": "https://www.goodmorningamerica.com/culture/story/lance-reddick-star-wire-john-wick-dead-60-97947993",
+            "urlToImage": "https://s.abcnews.com/images/GMA/lance-roddick-01-gty-jt-230317_1679082995387_hpMain_16x9_608.jpg",
+            "publishedAt": "2023-03-18T01:09:48Z",
+            "content": "Lance Reddick, star of \"The Wire\" and the \"John Wick\" franchise, has died. He was 60.\r\nThe actor's representative confirmed his death to ABC News, saying Friday he \"passed away suddenly this morning … [+787 chars]"
+        }
+
+    ]
+}
